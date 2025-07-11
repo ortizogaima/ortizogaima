@@ -1,5 +1,5 @@
-## Hi I am Ima
-
+## Hi, I am Ima
+Hi i'm Imanol a Bachelor of Computer Science student
 <!--
 **ortizogaima/ortizogaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
