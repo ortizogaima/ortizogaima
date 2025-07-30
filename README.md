@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Imanol Ortiz Oga
+# 👋 Hola, Soy Ima!
 
 🎯 **Desarrollador Web Frontend**
 
