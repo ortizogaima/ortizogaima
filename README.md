@@ -40,7 +40,7 @@ Apasionado por la tecnología, estudiante y autodidacta, con ganas constantes de
 
 ## 📫 Contacto
 
-- 📩 .[Email](ortizogaimanol.labase@gmail.com)  
+- 📩 [Email](ortizogaimanol.labase@gmail.com)  
 - 💬 [WhatsApp](https://wa.link/nj2c8b)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/imanol-ortiz-oga)
 
