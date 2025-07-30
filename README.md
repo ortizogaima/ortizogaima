@@ -2,14 +2,14 @@
 
 🎯 **Desarrollador Web Frontend**
 
-Apasionado por la tecnología, autodidacta y con ganas constantes de seguir aprendiendo y creciendo. Me gustan los desafíos y encontrar soluciones eficientes a problemas reales. Disfruto trabajar en equipo, compartir ideas y aprender junto a otros.
+Apasionado por la tecnología, estudiante y autodidacta, con ganas constantes de seguir aprendiendo y creciendo. Me gustan los desafíos y encontrar soluciones eficientes a problemas reales. Disfruto trabajar en equipo, compartir ideas y aprender junto a otros.
 
 ---
 
 ## 🧠 Sobre mí
 
 - 💻 Tengo conocimientos en **HTML, CSS, JavaScript, Vue, React, jQuery, AJAX, Axios y Bootstrap**.
-- 🚀 Aprendí frontend en menos de un mes desde que entré a trabajar en Let’s Code, y en el mes siguiente ya estaba subiendo cambios a producción.
+- 🚀 Aprendí frontend en menos de un mes y en el mes siguiente ya estaba subiendo cambios a producción.
 - 🧩 Me interesa mucho el desarrollo web, pero me gustaría probar otras áreas a medida que gane experiencia.
 - 👨‍💻 Estoy en camino a ser **desarrollador full-stack**, aunque actualmente me especializo en frontend.
 - 🤝 Valoro el **compañerismo, la colaboración y el respeto** dentro de un equipo.
@@ -32,18 +32,18 @@ Apasionado por la tecnología, autodidacta y con ganas constantes de seguir apre
 
 ## 📌 Proyectos destacados
 
-🔹 [Grabbbbit](https://grabbbitapp.com) – Sistema de envío de paquetes  
-🔹 [Taqadam](https://taqadam.kaust.edu.sa) – Visualización de datos de IA  
-🔹 [Gopic](https://gopic.odoo.com) – Impresión automática de fotos desde Instagram
+🔹 [Grabbbbit](https://grabbbitapp.com) – Sistema de envío de paquetería
+🔹 [Taqadam](https://taqadam.kaust.edu.sa) – Sistema de gestión de datos de entrenamiento destinados a modelos de Machine Learning
+🔹 [Gopic](https://gopic.odoo.com) – Sistema de impresión de fotos extraídas de redes sociales con marcos personalizados
 
 ---
 
 ## 📫 Contacto
 
-- 📩 ortizogaimanol.labase@gmail.com  
+- 📩 .[Email](ortizogaimanol.labase@gmail.com)  
 - 💬 [WhatsApp](https://wa.link/nj2c8b)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/imanol-ortiz-oga)
 
 ---
 
-> *“Nunca es demasiado tarde para ser lo que podrías haber sido.”* – George Eliot
+## > *“Nunca es demasiado tarde para ser lo que podrías haber sido.”* – George Eliot
