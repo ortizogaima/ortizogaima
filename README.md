@@ -46,4 +46,4 @@ Apasionado por la tecnología, estudiante y autodidacta, con ganas constantes de
 
 ---
 
-## > *“Nunca es demasiado tarde para ser lo que podrías haber sido.”* – George Eliot
+### > *“Nunca es demasiado tarde para ser lo que podrías haber sido.”* – George Eliot
