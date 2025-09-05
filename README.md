@@ -30,16 +30,6 @@ Apasionado por la tecnología, estudiante y autodidacta, con ganas constantes de
 
 ---
 
-## 📌 Proyectos destacados
-
-🔹 [Grabbbbit](https://grabbbitapp.com) – Sistema de envío de paquetería
-
-🔹 [Taqadam](https://taqadam.kaust.edu.sa) – Sistema de gestión de datos de entrenamiento destinados a modelos de Machine Learning
-
-🔹 [Gopic](https://gopic.odoo.com) – Sistema de impresión de fotos extraídas de redes sociales con marcos personalizados
-
----
-
 ## 📫 Contacto
 
 - 📩 [Email](ortizogaimanol.labase@gmail.com)  
